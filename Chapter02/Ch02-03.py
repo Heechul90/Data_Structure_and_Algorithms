@@ -1,4 +1,4 @@
-### Polymorphism
+### Inheritance
 
 class Father(object):
     strHometown = 'Jeju'

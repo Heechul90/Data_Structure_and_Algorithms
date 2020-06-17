@@ -9,4 +9,4 @@ def Fibonacci(n):
 for itr in range(0, 10):
     print(Fibonacci(itr))
 
-Fibonacci(0)
+Fibonacci()
