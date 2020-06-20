@@ -1,4 +1,4 @@
-# 1장. 데이터 구조 및 알고리즘
+# 1장. 데이터 구조 및 분석 I : Linear Structure and Dynamic Programming
 
 ## - 목차
 1. Programming and Execution Environment
