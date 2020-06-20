@@ -11,10 +11,10 @@
 ## - Objectives
 ### 1. We learn the object-oriented paradigm (OOP) and the basic of software design.
 ### 2. Objectives are
-#### * Understanding object-oriented concepts
-##### + Class, instance, inheritance, encapsulation, polymorphism...
-#### * Understanding a formal representation of software design
-##### + Memorizing a number of Unified Modeling Language (UML) notations
-#### * Understanding a number of software design patterns
-##### + Factory, Adapter, Bridge, Composite, Observer
-##### + Memorizing their semantics and structures
+* Understanding object-oriented concepts
+  * Class, instance, inheritance, encapsulation, polymorphism...
+* Understanding a formal representation of software design
+  * Memorizing a number of Unified Modeling Language (UML) notations
+* Understanding a number of software design patterns
+  + Factory, Adapter, Bridge, Composite, Observer
+  + Memorizing their semantics and structures
