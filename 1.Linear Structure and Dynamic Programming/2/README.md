@@ -16,5 +16,5 @@
 * Understanding a formal representation of software design
   * Memorizing a number of Unified Modeling Language (UML) notations
 * Understanding a number of software design patterns
-  + Factory, Adapter, Bridge, Composite, Observer
-  + Memorizing their semantics and structures
+  * Factory, Adapter, Bridge, Composite, Observer
+  * Memorizing their semantics and structures
