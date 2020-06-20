@@ -1,4 +1,4 @@
-# 7장. 데이터 구조 및 알고리즘
+# 7장. 데이터 구조 및 분석 I : Linear Structure and Dynamic Programming
 
 ## - 목차
 1. Factors of Program's Efficiency
