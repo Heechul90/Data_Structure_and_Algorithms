@@ -11,7 +11,7 @@
 
 ## - Objectives
 ### 1. We learn how to analyze the efficiency of our program
-	* Algorithm analysis
+* Algorithm analysis
 ### 2. Objectives are
 * Memorizing the definition and the rules of the big-Oh notation
 * Understanding what determines the efficiency of programs
