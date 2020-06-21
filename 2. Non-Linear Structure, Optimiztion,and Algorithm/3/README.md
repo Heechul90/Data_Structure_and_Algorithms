@@ -6,7 +6,7 @@
 3. Heap Sort
 4. Quick Sort
 5. Counting Sort
-6. Redix Sort
+6. Radix Sort
 
 
 ## - Objectives
@@ -24,5 +24,5 @@
 		* Tricky in the complecity proof
 	* Quick Sort
 		* Importance of a pivot
-	* Counting Sort and Racix Sort
+	* Counting Sort and Radix Sort
 		* O(N) search
