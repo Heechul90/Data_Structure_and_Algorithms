@@ -12,6 +12,13 @@
 9. Substitution and Execution
 
 ## - Objectives
-### 1. We 
+### 1. We study the genetic algorithm and the traveling salesman
 ### 2. Objectives are
-* 
+* Understanding when and why the genetic algorithm is used
+* Memorizing the structure of the genetic algorithm
+* Understanding the encoding strategies of the genetic algorithms
+* Understanding the roles and the rational of the algorithm steps
+  * Selection step
+  * Crossover step
+  * Mutation step
+  * Substitution step
