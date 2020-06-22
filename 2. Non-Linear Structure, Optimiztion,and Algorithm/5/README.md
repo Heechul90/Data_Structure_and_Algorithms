@@ -4,8 +4,8 @@
 1. Graph
 2. Representation of graph
 3. Traversing Problem - DFS and BFS
-4. Shortest Path Problem - Dijikstra's Algorithm 1
-5. Shortest Path Problem - Dijikstra's Algorithm 2
+4. Shortest Path Problem - Dijkstra's Algorithm 1
+5. Shortest Path Problem - Dijkstra's Algorithm 2
 6. Minimum Spanning Tree Problem Prim's Algorithm
 
 
